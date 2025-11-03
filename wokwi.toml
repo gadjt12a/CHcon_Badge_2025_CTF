@@ -1,0 +1,3 @@
+[wokwi]
+firmware = "firmware.bin"
+rfc2217SeasdrverPort = 4000
